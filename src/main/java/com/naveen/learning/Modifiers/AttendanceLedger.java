@@ -1,6 +1,7 @@
 package com.naveen.learning.modifiers;
 
 public class AttendanceLedger {
-    String name;
-    String gender;
+
+    public String name;
+    public String gender;  // here we declared as public so it can be accessed from same class, same package and different package
 }

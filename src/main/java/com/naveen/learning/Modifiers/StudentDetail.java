@@ -1,9 +1,8 @@
 package com.naveen.learning.modifiers;
+public class StudentDetail {
 
-public class StudentDetail{
+  public static void main(String[] args) {
 
-
-public static void main(String[] args){
 
     AttendanceLedger ledger = new AttendanceLedger();
     ledger.name = "naveen";
@@ -11,6 +10,6 @@ public static void main(String[] args){
     System.out.println("Name   : " + ledger.name);
     System.out.println("Gender : " + ledger.gender);
 
-}
-    
+  }
+
 }
