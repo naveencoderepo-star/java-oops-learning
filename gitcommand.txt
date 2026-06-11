@@ -1,0 +1,4 @@
+git fetch origin              → get latest GitHub data
+git reset --hard origin/main  → overwrite local tracked files with GitHub version
+git clean -fd                 → delete local untracked files/folders
+git status                    → verify clean state
