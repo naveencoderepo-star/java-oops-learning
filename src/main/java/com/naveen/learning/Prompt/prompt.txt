@@ -1,0 +1,36 @@
+@[d:\automation projects\java-oops-learning\java-oops-learning\src\main\java\com\naveen\learning] 
+
+Create a complete learning module for **[CONCEPT_NAME]** in my java-oops-learning project.
+Follow the EXACT same pattern as the AbstractClass and Modifiers folders.
+Include Tanglish comments, 25 interview Q&A (Which is very frequently asked in companies during interview), UI Automation perspective,
+multiple child classes, a Test class with demos, and compile + run it.
+
+
+#	Topic	Automation Angle
+1	Inheritance	BasePage → child pages
+2	Polymorphism	Method overloading/overriding
+3	Encapsulation	Private locators + public actions
+4	Interface	WebDriver, TakesScreenshot
+5	Constructor	Passing WebDriver in POM
+6	Static Keyword	Static WebDriver, utility methods
+7	This & Super	this/super in page objects
+8	Exception Handling	NoSuchElementException etc.
+9	Collections	List<WebElement>, HashMap test data
+10	String Handling	getText(), dynamic XPath building
+
+
+11	Final Keyword	Final class / method / variable → framework protection
+12	Wrapper Classes	Auto-boxing int/Integer in Page Objects
+13	Overriding	Override verifyTitle() in child pages
+14	Abstract Class	BasePage → concrete child pages
+15	Interface	WebDriver, TakesScreenshot
+16	Constructor	Passing driver in POM
+17	Static	Static driver or config in framework
+18	This/Super	this.element / super()
+19	Exception Handling	Try-catch during login
+20	Collections	List<WebElement> in frameworks
+21	String	dynamic XPaths
+22	ArrayList	Multiple usernames in test data
+23	HashMap	Test data storage
+24	Switch	Menu-driven test execution
+25	Encapsulation	Private locators + public methods
